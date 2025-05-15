@@ -1,0 +1,9 @@
+phidata
+python-dotenv
+fastapi
+uvicorn
+groq
+opencv-python
+pytesseract
+numpy
+pdf2image
